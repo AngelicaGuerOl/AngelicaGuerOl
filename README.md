@@ -32,13 +32,9 @@
 ## 🔨 Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,python,php,cs&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,python,php,cs&theme=dark" alt="Languages and Frameworks" />
   <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,github,nginx,angular,astro,laravel&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,github,nginx,angular,astro,laravel&theme=dark" alt="Tools and Infrastructure" />
 </p>
 
 **Testing:** JUnit · Mockito · Vitest · Playwright · Testcontainers · React Testing Library  
@@ -86,8 +82,8 @@ Built membership system for 500+ members with React / Laravel / Clean Architectu
 ## 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AngelicaGuerOl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaGuerOl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AngelicaGuerOl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&rank_icon=github" alt="Angelica's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaGuerOl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
